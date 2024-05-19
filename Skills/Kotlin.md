@@ -1,182 +1,182 @@
 ## Kotlin
 - Language
-  - Variables
-  - Primitive types
-  - Unsigned types
-  - Nullable types
-  - Non-nullable types
-  - `String`
-  - `Any`
-  - `Unit`
-  - Mapping to Java types
-  - Arithmetic operators
-  - Boolean operators
-  - Complex conditions
-  - Conditional operators
-  - Elvis operator `?:`
-  - Safe call opearator `?.`
-  - `for` loop
-  - `while...do` loop
-  - `do...while` loop
-  - `forEach{...}`
-  - `forEachInIndexed{...}`
-  - `Arrays<T>`
-  - Primitive arrays
-  - Log & Debug
-  - Log & Debug: `stdout`
-  - Log & Debug: `stderr`
-  - Log & Debug: Breakpoints
-  - Log & Debug: Step-by-step running
-  - Exceptions
-  - Errors
-  - `try...catch`
-  - Nothing type
-  - `List`
-  - `MutableList`
-  - `Set`
-  - `MutableSet`
-  - `Map`
-  - `MutableMap`
-  - `Collection`
-  - `Iterable`
-  - `Ranges`
-  - `Sequences`
-  - Functions: Arguments
-  - Functions: Return type
-  - Functions: Function signature
-  - Functions: `varargs`
-  - Functions: Function overloading
-  - Functions: Extension functions
-  - Functions: Inline functions
-  - Functions: Infix functions
-  - Recursion: Recursive functions
-  - Recursion: StackOverFlowError
-  - Recursion: `Tailrec` functions
-  - Constructors
-  - Initializers
-  - Properties
-  - Getters & Setters
-  - Methods
-  - `this`
-  - Objects
-  - Companion objects
-  - References
-  - Muttable & immutable classes
-  - Enum classes
-  - Class `Any`
-  - Operator overloading
-  - Data classes
-  - Packages
-  - Type aliases
-  - Import aliases
-  - Value classes
+  - Variables e
+  - Primitive types e
+  - Unsigned types e
+  - Nullable types e
+  - Non-nullable types e
+  - `String` e
+  - `Any` e
+  - `Unit` e
+  - Mapping to Java types e
+  - Arithmetic operators e
+  - Boolean operators e
+  - Complex conditions e
+  - Conditional operators e
+  - Elvis operator `?:` e
+  - Safe call opearator `?.` e
+  - `for` loop e
+  - `while...do` loop e
+  - `do...while` loop e
+  - `forEach{...}` e
+  - `forEachInIndexed{...}` e
+  - `Arrays<T>` e
+  - Primitive arrays e
+  - Log & Debug  u
+  - Log & Debug: `stdout` e
+  - Log & Debug: `stderr` e
+  - Log & Debug: Breakpoints e
+  - Log & Debug: Step-by-step running e
+  - Exceptions e
+  - Errors e
+  - `try...catch` e
+  - Nothing type e
+  - `List` e
+  - `MutableList` e
+  - `Set` e
+  - `MutableSet` e
+  - `Map` e
+  - `MutableMap` e
+  - `Collection` e
+  - `Iterable` e
+  - `Ranges` e
+  - `Sequences` e
+  - Functions: Arguments e
+  - Functions: Return type e
+  - Functions: Function signature e
+  - Functions: `varargs` e
+  - Functions: Function overloading e
+  - Functions: Extension functions e
+  - Functions: Inline functions e
+  - Functions: Infix functions e
+  - Recursion: Recursive functions e
+  - Recursion: StackOverFlowError e
+  - Recursion: `Tailrec` functions e
+  - Constructors e
+  - Initializers e
+  - Properties e
+  - Getters & Setters e
+  - Methods e
+  - `this` e
+  - Objects e
+  - Companion objects e
+  - References e
+  - Muttable & immutable classes u
+  - Enum classes u
+  - Class `Any` u
+  - Operator overloading u
+  - Data classes e
+  - Packages e
+  - Type aliases e
+  - Import aliases e
+  - Value classes e
 - OOP
-  - Abstract classes
-  - Abstract method
-  - Abstract property
-  - Interface
-  - Closed class
-  - Open class
-  - Open method
-  - Open property
-  - Nested class
-  - Inner class
-  - `public`
-  - `protected`
-  - `internal`
-  - `private`
-  - Sealed class
-  - Sealed interface
-  - Unsafe class operator `as`
-  - Safe class operator `as?`
-  - Type check operators `is` & `!is`
-  - Smart cast
-  - Delegation: `lazy`
-  - Delegation: `observable`
-  - Delegation: `vetoable`
-  - Delegate to other property
-  - Delegate to map collection
-  - Custom delegates
-  - Delegation pattern
+  - Abstract classes e
+  - Abstract method e
+  - Abstract property e
+  - Interface e
+  - Closed class e
+  - Open class e
+  - Open method e
+  - Open property e
+  - Nested class e
+  - Inner class e
+  - `public` e
+  - `protected` e
+  - `internal` e
+  - `private` e
+  - Sealed class k
+  - Sealed interface k
+  - Unsafe class operator `as` u
+  - Safe class operator `as?` u
+  - Type check operators `is` & `!is` u
+  - Smart cast u
+  - Delegation: `lazy` u
+  - Delegation: `observable` u
+  - Delegation: `vetoable` u
+  - Delegate to other property u
+  - Delegate to map collection u
+  - Custom delegates u
+  - Delegation pattern u
 - Generics
-  - Class with type arguments
-  - Method with type arguments
-  - Type erasure
-  - Upper bound
-  - Multiple bounds `where`
-  - Covariant type args `out`
-  - Covariant type args `in`
-  - Input projection `in`
-  - Output ptojection `out`
-  - Star-projection
-  - Reified functions
+  - Class with type arguments u
+  - Method with type arguments u
+  - Type erasure u
+  - Upper bound u
+  - Multiple bounds `where` k
+  - Covariant type args `out` k
+  - Covariant type args `in` k
+  - Input projection `in` k
+  - Output ptojection `out` k
+  - Star-projection k
+  - Reified functions k
 - Functional programming
-  - Lambda declaration
-  - Lambda instantiation
-  - Invoking lambdas
-  - Functional Interfaces
-  - Callable references
-  - `noinline`
-  - `crossinline`
-  - Scoped functions: `with`
-  - Scoped functions: `let`
-  - Scoped functions: `run`
-  - Scoped functions: `apply`
-  - Scoped functions: `also`
-  - Scoped functions: `takeif`
-  - Custom scope functions
+  - Lambda declaration e
+  - Lambda instantiation u
+  - Invoking lambdas e
+  - Functional Interfaces u
+  - Callable references u
+  - `noinline` k
+  - `crossinline` k
+  - Scoped functions: `with` u
+  - Scoped functions: `let` u
+  - Scoped functions: `run` u
+  - Scoped functions: `apply` u
+  - Scoped functions: `also` u
+  - Scoped functions: `takeif` u
+  - Custom scope functions u
 - Input\Output Streams
-  - `readLine`
-  - `readIn`
-  - `readInOrNull`
-  - `Scanner`
-  - `ByteArrayOutputStream`
-  - `ByteArrayInputStream`
-  - `DataOutputStream`
-  - `DataInputStream`
-  - `use{...}` function
-  - `OutputStreamWriter`
-  - `InputStreamReader`
-  - Serialization
-  - `BufferedOutputStream`
-  - `BufferedInputStream`
-  - `BufferedReader`
-  - `BufferedWriter`
-  - `File`
-  - `RandomAccessFile`
-  - `FileTreeWalk`
-  - `FileInputStream`
-  - `FileOutputStream`
+  - `readLine` e
+  - `readIn` e
+  - `readInOrNull` e
+  - `Scanner` e
+  - `ByteArrayOutputStream` e
+  - `ByteArrayInputStream` e
+  - `DataOutputStream` e
+  - `DataInputStream` e
+  - `use{...}` function e
+  - `OutputStreamWriter` e
+  - `InputStreamReader` e
+  - Serialization e
+  - `BufferedOutputStream` e
+  - `BufferedInputStream` e
+  - `BufferedReader` e
+  - `BufferedWriter` e
+  - `File` e
+  - `RandomAccessFile` u
+  - `FileTreeWalk` k
+  - `FileInputStream` e
+  - `FileOutputStream` e
 - Async programming
-  - `Thread`
-  - `ExecutorServices`
-  - Synchronizations
-  - Atomic types
-  - Atomic operations
-  - Dead locks
-  - Race conditions
-  - Live locks
-  - Starvation
-  - Synchronized collections
-  - `runBlocking`
-  - `launch`
-  - `async`
-  - `suspend` functions
-  - Structures concurrency
-  - Cotoutine Context
-  - `Dispatcher`
-  - `Job`
-  - `Name`
-  - `CorutineExceptionHandler`
-  - Coroutine Scope
-  - Cancellation & Timeouts
-  - `withContext{...}` function
-  - `suspendCancellableCoroutine{...}` function
-  - Cold & Hot Flows
-  - Intermidiate & terminal operators
-  - `flowOf`
-  - `flow{...}`
-  - `callbackFlow{...}`
-  - Flow cancellation
-  - Combining multiple flows
-  - `StateFlow` & `SharedFlow`
+  - `Thread` e
+  - `ExecutorServices` k
+  - Synchronizations e
+  - Atomic types e
+  - Atomic operations e
+  - Dead locks e
+  - Race conditions e
+  - Live locks k
+  - Starvation h
+  - Synchronized collections k
+  - `runBlocking` k
+  - `launch` u
+  - `async` u
+  - `suspend` functions u
+  - Structures concurrency u
+  - Cotoutine Context u
+  - `Dispatcher` u
+  - `Job` u
+  - `Name` u
+  - `CorutineExceptionHandler` u
+  - Coroutine Scope u
+  - Cancellation & Timeouts u
+  - `withContext{...}` function u
+  - `suspendCancellableCoroutine{...}` function u
+  - Cold & Hot Flows h
+  - Intermidiate & terminal operators h
+  - `flowOf` h
+  - `flow{...}` h
+  - `callbackFlow{...}` h
+  - Flow cancellation h
+  - Combining multiple flows h
+  - `StateFlow` & `SharedFlow` h
