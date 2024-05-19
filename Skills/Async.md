@@ -1,12 +1,12 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop h
-  - `try..catch` h
-  - Non-blocking h
-  - Async I/O h
-  - Thread pool h
-  - Pattern Reactor h
+  - Event loop: 👂 heard
+  - `try..catch`: 👂 heard
+  - Non-blocking: 👂 heard
+  - Async I/O: 👂 heard
+  - Thread pool: 👂 heard
+  - Pattern Reactor: 👂 heard
   - CAS operations
   - epoll
   - kqueue
@@ -14,50 +14,50 @@
   - Event ports
   - libuv
   - Race conditions
-  - Dead locks h
+  - Dead locks: 👂 heard
   - Live locks
   - Concurrent programming
-  - Parallel programming h
-  - Actor Model h
-  - Thread e
-  - Process h
+  - Parallel programming: 👂 heard
+  - Actor Model: 👂 heard
+  - Thread: 🙋 explained
+  - Process: 👂 heard
 - Async contracts
-  - Callbacks k
-  - Callback-last-error-first h
+  - Callbacks: 🎓 known
+  - Callback-last-error-first: 👂 heard
   - Thenable
-  - Promise h
-  - Async/await h
-  - Future h
-  - Deferred h
-  - Sync generator h
-  - Async Generator h
-  - Async Iterator h
-  - Event k
-  - Coroutine h
-  - Goroutine h
-  - Signal h
-  - Stream h
-  - Chain of responsibility h
-  - Middleware h
-  - Locks h
+  - Promise: 👂 heard
+  - Async/await: 👂 heard
+  - Future: 👂 heard
+  - Deferred: 👂 heard
+  - Sync generator: 👂 heard
+  - Async Generator: 👂 heard
+  - Async Iterator: 👂 heard
+  - Event: 🎓 known
+  - Coroutine: 👂 heard
+  - Goroutine: 👂 heard
+  - Signal: 👂 heard
+  - Stream: 👂 heard
+  - Chain of responsibility: 👂 heard
+  - Middleware: 👂 heard
+  - Locks: 👂 heard
 - Async adapters and utils
-  - callbackify h
-  - promisify h
-  - asyncify h
+  - callbackify: 👂 heard
+  - promisify: 👂 heard
+  - asyncify: 👂 heard
   - Callbacks compose
   - Async compose
 - Async abstractions interfaces
-  - EventEmitter h
-  - Observable/Observer h
-  - Readable h
-  - Writable h
+  - EventEmitter: 👂 heard
+  - Observable/Observer: 👂 heard
+  - Readable: 👂 heard
+  - Writable: 👂 heard
   - Transform
-  - Async Pool h
-  - Async Queue h
-  - Async Collector h
-  - Semaphore h
-  - Mutex h
-  - Spin Lock h
+  - Async Pool: 👂 heard
+  - Async Queue: 👂 heard
+  - Async Collector: 👂 heard
+  - Semaphore: 👂 heard
+  - Mutex: 👂 heard
+  - Spin Lock: 👂 heard
 - JavaScript & Node.js specific
   - Timers
   - `setImmediate`

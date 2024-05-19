@@ -76,7 +76,7 @@
   - Abstract property
   - Interface
   - Closed class
-  - Open class 
+  - Open class
   - Open method
   - Open property
   - Nested class
@@ -179,4 +179,4 @@
   - `callbackFlow{...}`
   - Flow cancellation
   - Combining multiple flows
-  - `StateFlow` & `SharedFlow` 
+  - `StateFlow` & `SharedFlow`

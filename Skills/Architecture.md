@@ -1,65 +1,65 @@
 ## Architecture
 
 - Application structure
-  - Modularity k
-  - Components k
-  - Directories k
-  - GRASP k
-  - SOLID k
-  - GoF patterns k
-  - CQS h
-  - Leaking abstractions h
-  - Multiparadigm code h
-  - Contract programming h
-  - Platform-agnostic 
+  - Modularity: 🎓 known
+  - Components: 🎓 known
+  - Directories: 🎓 known
+  - GRASP: 🎓 known
+  - SOLID: 🎓 known
+  - GoF patterns: 🎓 known
+  - CQS: 👂 heard
+  - Leaking abstractions: 👂 heard
+  - Multiparadigm code: 👂 heard
+  - Contract programming: 👂 heard
+  - Platform-agnostic
   - Transport-agnostic
   - Framework-agnostic
-  - Code coverage e
-  - Cohesion k
-  - Coupling k
-  - Cyclomatic complexity h
-  - Reliability k
-  - Quality k
-  - Availability k
-  - Flexibility k
-  - Law of Demeter (LoD) k
+  - Code coverage: 🙋 explained
+  - Cohesion: 🎓 known
+  - Coupling: 🎓 known
+  - Cyclomatic complexity: 👂 heard
+  - Reliability: 🎓 known
+  - Quality: 🎓 known
+  - Availability: 🎓 known
+  - Flexibility: 🎓 known
+  - Law of Demeter (LoD): 🎓 known
 - Application architecture
-  - Isolation between layer k
-  - Domain-specific language (DSL) k
-  - System vs applied code k
-  - Multilayer approach k
-  - Hexagonal architecture k
-  - Separation of concerns (SoC) k
-  - Metaprogramming k
-  - Inversion of control (IoC) e
-  - Dependency injection (DI) e
-  - Clean architecture e
-  - Domain-driven design (DDD) h
+  - Isolation between layer: 🎓 known
+  - Domain-specific language (DSL): 🎓 known
+  - System vs applied code: 🎓 known
+  - Multilayer approach: 🎓 known
+  - Hexagonal architecture: 🎓 known
+  - Separation of concerns (SoC): 🎓 known
+  - Metaprogramming: 🎓 known
+  - Inversion of control (IoC): 🙋 explained
+  - Dependency injection (DI): 🙋 explained
+  - Clean architecture: 🙋 explained
+  - Domain-driven design (DDD): 👂 heard
   - Pub/sub
   - Message brocker
   - Agent
   - Service locator
-  - Message Queue (MQ) h
+  - Message Queue (MQ): 👂 heard
   - CQRS
   - Event sourcing
-  - E-R data modeling h
-  - Entity-relationship diagram h
-  - IDEF1X h
-  - UML h
+  - E-R data modeling: 👂 heard
+  - Entity-relationship diagram: 👂 heard
+  - IDEF1X: 👂 heard
+  - UML: 👂 heard
   - Work breakdown structure
   - Budget estimation
-  - Distributed systems h
-  - High-intensive computing h
-  - Load balancing h
-  - Gateways h
+  - Distributed systems: 👂 heard
+  - High-intensive computing: 👂 heard
+  - Load balancing: 👂 heard
+  - Gateways: 👂 heard
   - On-premises
   - IaaS
   - PaaS
   - SaaS
   - FaaS clouds
-  - Serverless h
+  - Serverless: 👂 heard
   - Vendor lock-in
-  - Bus factor h
+  - Bus factor: 👂 heard
 - Solution architecture
   - A software requirements specification (SRS)
   - Solution visions
