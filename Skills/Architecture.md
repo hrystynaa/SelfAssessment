@@ -1,65 +1,65 @@
 ## Architecture
 
 - Application structure
-  - Modularity
-  - Components
-  - Directories
-  - GRASP
-  - SOLID
-  - GoF patterns
-  - CQS
-  - Leaking abstractions
-  - Multiparadigm code
-  - Contract programming
-  - Platform-agnostic
+  - Modularity k
+  - Components k
+  - Directories k
+  - GRASP k
+  - SOLID k
+  - GoF patterns k
+  - CQS h
+  - Leaking abstractions h
+  - Multiparadigm code h
+  - Contract programming h
+  - Platform-agnostic 
   - Transport-agnostic
   - Framework-agnostic
-  - Code coverage
-  - Cohesion
-  - Coupling
-  - Cyclomatic complexity
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
-  - Law of Demeter (LoD)
+  - Code coverage e
+  - Cohesion k
+  - Coupling k
+  - Cyclomatic complexity h
+  - Reliability k
+  - Quality k
+  - Availability k
+  - Flexibility k
+  - Law of Demeter (LoD) k
 - Application architecture
-  - Isolation between layer
-  - Domain-specific language (DSL)
-  - System vs applied code
-  - Multilayer approach
-  - Hexagonal architecture
-  - Separation of concerns (SoC)
-  - Metaprogramming
-  - Inversion of control (IoC)
-  - Dependency injection (DI)
-  - Clean architecture
-  - Domain-driven design (DDD)
+  - Isolation between layer k
+  - Domain-specific language (DSL) k
+  - System vs applied code k
+  - Multilayer approach k
+  - Hexagonal architecture k
+  - Separation of concerns (SoC) k
+  - Metaprogramming k
+  - Inversion of control (IoC) e
+  - Dependency injection (DI) e
+  - Clean architecture e
+  - Domain-driven design (DDD) h
   - Pub/sub
   - Message brocker
   - Agent
   - Service locator
-  - Message Queue (MQ)
+  - Message Queue (MQ) h
   - CQRS
   - Event sourcing
-  - E-R data modeling
-  - Entity-relationship diagram
-  - IDEF1X
-  - UML
+  - E-R data modeling h
+  - Entity-relationship diagram h
+  - IDEF1X h
+  - UML h
   - Work breakdown structure
   - Budget estimation
-  - Distributed systems
-  - High-intensive computing
-  - Load balancing
-  - Gateways
+  - Distributed systems h
+  - High-intensive computing h
+  - Load balancing h
+  - Gateways h
   - On-premises
   - IaaS
   - PaaS
   - SaaS
   - FaaS clouds
-  - Serverless
+  - Serverless h
   - Vendor lock-in
-  - Bus factor
+  - Bus factor h
 - Solution architecture
   - A software requirements specification (SRS)
   - Solution visions
