@@ -99,15 +99,15 @@
 - Multithreading
   - `Thread`: 🙋 explained
   - `Runnable`: 🙋 explained
-  - `Semaphore`: 🖐️ used
-  - `Lock`u
-  - Atomic types and operations: 🎓 known
-  - Monitors: 👂 heard
-  - `synchronized` methods: 🖐️ used
-  - `synchronized` blocks: 🖐️ used
-  - Synchronized collections: 👂 heard
-  - Deadlocks, race conditions: 👂 heard
-- Date/Time API u
+  - `Semaphore`: 🙋 explained
+  - `Lock`: 🙋 explained
+  - Atomic types and operations: 🙋 explained
+  - Monitors: 🙋 explained
+  - `synchronized` methods: 🙋 explained
+  - `synchronized` blocks: 🙋 explained
+  - Synchronized collections: 🎓 known
+  - Deadlocks, race conditions: 🙋 explained
+- Date/Time API e
 - Spring Framework
   - Spring Core: 🙋 explained
   - Spring Boot: 🙋 explained
