@@ -31,15 +31,15 @@
   - Deferred: 👂 heard
   - Sync generator: 👂 heard
   - Async Generator: 👂 heard
-  - Async Iterator u
-  - Event u
-  - Coroutine u
+  - Async Iterator: 🖐️ used
+  - Event: 🖐️ used
+  - Coroutine: 🖐️ used
   - Goroutine: 👂 heard
-  - Signal k
-  - Stream k
+  - Signal: 🎓 known
+  - Stream: 🎓 known
   - Chain of responsibility: 👂 heard
   - Middleware: 👂 heard
-  - Locks k
+  - Locks: 🎓 known
 - Async adapters and utils
   - callbackify: 👂 heard
   - promisify: 👂 heard
@@ -49,15 +49,15 @@
 - Async abstractions interfaces
   - EventEmitter: 👂 heard
   - Observable/Observer: 👂 heard
-  - Readable k
-  - Writable k
+  - Readable: 🎓 known
+  - Writable: 🎓 known
   - Transform
   - Async Pool: 👂 heard
   - Async Queue: 👂 heard
   - Async Collector: 👂 heard
-  - Semaphore e
-  - Mutex e
-  - Spin Lock e
+  - Semaphore: 🙋 explained
+  - Mutex: 🙋 explained
+  - Spin Lock: 🙋 explained
 - JavaScript & Node.js specific
   - Timers
   - `setImmediate`

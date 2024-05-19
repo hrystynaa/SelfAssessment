@@ -88,17 +88,14 @@ Total: you have `0` of `98` skills, `98` to be upgraded, and `0` above needed
 | Async/await | 👂 heard | ⟶  | 🖐️ used |
 | Sync generator | 👂 heard | ⟶  | 🎓 known |
 | Async Generator | 👂 heard | ⟶  | 🎓 known |
-| Async Iterator | 👂 heard | ⟶  | 🎓 known |
-| Event | 🎓 known | ⟶  | 🖐️ used |
-| Signal | 👂 heard | ⟶  | 🖐️ used |
-| Stream | 👂 heard | ⟶  | 🖐️ used |
-| Locks | 👂 heard | ⟶  | 🎓 known |
+| Signal | 🎓 known | ⟶  | 🖐️ used |
+| Stream | 🎓 known | ⟶  | 🖐️ used |
 | callbackify | 👂 heard | ⟶  | 🎓 known |
 | promisify | 👂 heard | ⟶  | 🎓 known |
 | asyncify | 👂 heard | ⟶  | 🎓 known |
 | EventEmitter | 👂 heard | ⟶  | 🖐️ used |
-| Readable | 👂 heard | ⟶  | 🖐️ used |
-| Writable | 👂 heard | ⟶  | 🖐️ used |
+| Readable | 🎓 known | ⟶  | 🖐️ used |
+| Writable | 🎓 known | ⟶  | 🖐️ used |
 | Transform | 🤷 unknown | ⟶  | 🖐️ used |
 | Async Pool | 👂 heard | ⟶  | 🎓 known |
 | Async Queue | 👂 heard | ⟶  | 🎓 known |
@@ -124,7 +121,7 @@ Total: you have `0` of `98` skills, `98` to be upgraded, and `0` above needed
 | Web Locks API | 🤷 unknown | ⟶  | 👂 heard |
 | Revealing constructor | 🤷 unknown | ⟶  | 🎓 known |
 
-Total: you have `7` of `50` skills, `43` to be upgraded, and `1` above needed
+Total: you have `10` of `50` skills, `40` to be upgraded, and `3` above needed
 
 | To start Node.js | actual | ⟶  | required |
 | --- | --- | --- | --- |
@@ -132,16 +129,10 @@ Total: you have `7` of `50` skills, `43` to be upgraded, and `1` above needed
 | Callbacks | 🎓 known | ⟶  | 🖐️ used |
 | Promise | 👂 heard | ⟶  | 🖐️ used |
 | Async/await | 👂 heard | ⟶  | 🖐️ used |
-| Async Iterator | 👂 heard | ⟶  | 🎓 known |
-| Event | 🎓 known | ⟶  | 🖐️ used |
-| Signal | 👂 heard | ⟶  | 🎓 known |
-| Stream | 👂 heard | ⟶  | 🎓 known |
 | callbackify | 👂 heard | ⟶  | 🎓 known |
 | promisify | 👂 heard | ⟶  | 🎓 known |
 | asyncify | 👂 heard | ⟶  | 🎓 known |
 | EventEmitter | 👂 heard | ⟶  | 🖐️ used |
-| Readable | 👂 heard | ⟶  | 🎓 known |
-| Writable | 👂 heard | ⟶  | 🎓 known |
 | Transform | 🤷 unknown | ⟶  | 🎓 known |
 | Async Pool | 👂 heard | ⟶  | 🎓 known |
 | Async Queue | 👂 heard | ⟶  | 🎓 known |
@@ -162,7 +153,7 @@ Total: you have `7` of `50` skills, `43` to be upgraded, and `1` above needed
 | Promise.any | 🤷 unknown | ⟶  | 🖐️ used |
 | Revealing constructor | 🤷 unknown | ⟶  | 👂 heard |
 
-Total: you have `4` of `37` skills, `33` to be upgraded, and `0` above needed
+Total: you have `10` of `37` skills, `27` to be upgraded, and `2` above needed
 
 | For Node.js platform/system programming | actual | ⟶  | required |
 | --- | --- | --- | --- |
@@ -188,27 +179,22 @@ Total: you have `4` of `37` skills, `33` to be upgraded, and `0` above needed
 | Async/await | 👂 heard | ⟶  | 🖐️ used |
 | Sync generator | 👂 heard | ⟶  | 🖐️ used |
 | Async Generator | 👂 heard | ⟶  | 🖐️ used |
-| Async Iterator | 👂 heard | ⟶  | 🖐️ used |
-| Event | 🎓 known | ⟶  | 🖐️ used |
-| Signal | 👂 heard | ⟶  | 🖐️ used |
-| Stream | 👂 heard | ⟶  | 🖐️ used |
+| Signal | 🎓 known | ⟶  | 🖐️ used |
+| Stream | 🎓 known | ⟶  | 🖐️ used |
 | Chain of responsibility | 👂 heard | ⟶  | 🖐️ used |
 | Middleware | 👂 heard | ⟶  | 🖐️ used |
-| Locks | 👂 heard | ⟶  | 🖐️ used |
+| Locks | 🎓 known | ⟶  | 🖐️ used |
 | callbackify | 👂 heard | ⟶  | 🖐️ used |
 | promisify | 👂 heard | ⟶  | 🖐️ used |
 | asyncify | 👂 heard | ⟶  | 🖐️ used |
 | EventEmitter | 👂 heard | ⟶  | 🖐️ used |
 | Observable/Observer | 👂 heard | ⟶  | 🖐️ used |
-| Readable | 👂 heard | ⟶  | 🖐️ used |
-| Writable | 👂 heard | ⟶  | 🖐️ used |
+| Readable | 🎓 known | ⟶  | 🖐️ used |
+| Writable | 🎓 known | ⟶  | 🖐️ used |
 | Transform | 🤷 unknown | ⟶  | 🖐️ used |
 | Async Pool | 👂 heard | ⟶  | 🖐️ used |
 | Async Queue | 👂 heard | ⟶  | 🖐️ used |
 | Async Collector | 👂 heard | ⟶  | 🖐️ used |
-| Semaphore | 👂 heard | ⟶  | 🖐️ used |
-| Mutex | 👂 heard | ⟶  | 🎓 known |
-| Spin Lock | 👂 heard | ⟶  | 🎓 known |
 | Timers | 🤷 unknown | ⟶  | 🖐️ used |
 | `setImmediate` | 🤷 unknown | ⟶  | 🖐️ used |
 | `nextTick` | 🤷 unknown | ⟶  | 🖐️ used |
@@ -237,7 +223,7 @@ Total: you have `4` of `37` skills, `33` to be upgraded, and `0` above needed
 | Channel API | 🤷 unknown | ⟶  | 🎓 known |
 | Revealing constructor | 🤷 unknown | ⟶  | 🖐️ used |
 
-Total: you have `5` of `75` skills, `70` to be upgraded, and `1` above needed
+Total: you have `10` of `75` skills, `65` to be upgraded, and `5` above needed
 
 ## [NodeJS](/Skills/NodeJS.md)
 
